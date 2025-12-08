@@ -8,7 +8,41 @@
 
 ## 📂 Repo layout
 See the project tree — notebooks, source, data, and results.  
-(Explain any non-obvious folders, e.g., `data/raw` is not included due to size.)
+
+awesome-research-project/
+├─ .github/
+│  └─ workflows/
+│     └─ ci.yml                 # GitHub Actions: test / notebook execution
+├─ data/
+│  ├─ README.md                 # small description, where to download large datasets
+│  └─ (raw/ processed/ external/ ) 
+├─ docs/
+│  └─ paper.pdf                 # final paper PDF or link
+├─ notebooks/
+│  ├─ 01_experiment_overview.ipynb
+│  └─ 02_reproduce_results.ipynb
+├─ src/
+│  ├─ __init__.py
+│  ├─ data_loader.py
+│  ├─ model.py
+│  ├─ train.py
+│  └─ eval.py
+├─ scripts/
+│  ├─ run_experiment.sh
+│  └─ prepare_data.sh
+├─ results/
+│  ├─ figures/
+│  └─ metrics/
+├─ environment.yml             # conda env (optional)
+├─ requirements.txt            # pip requirements
+├─ Dockerfile                  # reproducible environment
+├─ Makefile                    # convenient short commands (make setup, make run)
+├─ README.md                   # main landing documentation (see template below)
+├─ CONTRIBUTING.md
+├─ CODE_OF_CONDUCT.md
+├─ LICENSE
+└─ CITATION.cff                # how to cite your repo/paper
+
 
 ## 🔬 Quick start — run the main experiment (local)
 1. Clone:
