@@ -1,4 +1,4 @@
-# Awesome Research Project — Short Paper Title
+# Research Project — "Adversarial Reflection-Optimized Preference (AROP): Autonomous Alignment of Large Language Models via Self-Generated Max-Margin Supervision"
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)]()
 [![Python](https://img.shields.io/badge/python-3.10+-blue)]()
