@@ -13,4 +13,69 @@ The dominant paradigm for aligning Large Language Models (LLMs) with human value
 
 ![Rep-Structure](https://github.com/user-attachments/assets/bac6339e-3392-4779-a388-621459912cf2)
 
+# Welcome to the AI Alignment Wiki
 
+This Wiki is dedicated to **AI Alignment research**, focusing on RLHF, DPO, hybrid approaches, and emerging trends in large language models (LLMs). Use this index to navigate easily to detailed articles.
+
+---
+
+## 📚 Articles Index
+
+### 1. RLHF and DPO
+
+- [Beyond Alignment: The Future of RLHF, DPO, and Hybrid Paradigms](Beyond-Alignment-RLHF-DPO)  
+  A comprehensive guide for AI researchers and PhD students, covering historical development, methods, trends, and practical tips.
+
+### 2. Key Research Papers
+
+- [Top RLHF and DPO Papers (2022–2025)](Key-Papers-RLHF-DPO)  
+  Summaries, insights, and links to important research papers in AI alignment.
+
+### 3. Practical Tutorials
+
+- [Hands-On RLHF Prototyping](RLHF-Practical-Tutorials)  
+  Guide on using TRL, HuggingFace, and benchmarking for research experiments.
+
+- [Direct Preference Optimization (DPO) Tutorial](DPO-Practical-Tutorials)  
+  Step-by-step instructions to simulate DPO, benchmark models, and hybrid approaches.
+
+### 4. Multi-Agent and Safety
+
+- [Multi-Agent RLHF Simulations](Multi-Agent-RLHF)  
+  Methods for aligning AI agents with social norms and ethical behavior.
+
+- [Safety-Critical AI Alignment](Safety-Critical-RLHF)  
+  Research and best practices for verifiable, safe AI in medical, aviation, and financial applications.
+
+### 5. Trends and Future Research
+
+- [AI Alignment Trends 2026](AI-Alignment-Trends-2026)  
+  Emerging methods, neurosymbolic hybrids, multimodal alignment, and preference drift.
+
+- [Hybrid RLHF + DPO Models](Hybrid-RLHF-DPO)  
+  Latest insights into combining expressivity and efficiency for large-scale AI alignment.
+
+### 6. Resources and Key Citations
+
+- [RLHF & DPO References](RLHF-DPO-Citations)  
+  A complete, clickable list of research papers, blogs, and reports for AI alignment research.
+
+---
+
+## 🚀 Getting Started
+
+1. Click on any of the links above to dive into detailed articles.  
+2. Use the **Search** bar in this Wiki to find specific topics or papers.  
+3. Bookmark your favorite pages for quick access during research.
+
+---
+
+## 🧠 About this Wiki
+
+This Wiki is maintained for **researchers, students, and AI enthusiasts**. It provides:
+
+- Up-to-date summaries of AI alignment methods  
+- Hands-on guides for RLHF, DPO, and hybrid models  
+- References with direct links to original papers and resources  
+
+Explore, learn, and contribute!
